@@ -1,5 +1,7 @@
 ## Установка
 bun install
+## Запуск сервера 
+bun run src/index.ts
 ## Настройте базу данных:
 
 npx prisma migrate dev --name init
