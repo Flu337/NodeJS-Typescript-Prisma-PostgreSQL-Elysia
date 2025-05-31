@@ -73,5 +73,3 @@ curl http://localhost:3000/api/teachers
 []
 
 
-
-#### *Роутер есть, но он скрыт в Elysia.js.*
